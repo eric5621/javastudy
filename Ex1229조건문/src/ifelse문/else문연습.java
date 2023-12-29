@@ -1,0 +1,36 @@
+package ifelse문;
+
+import java.util.Scanner;
+
+public class else문연습 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("상품의 개수를 입력하세요 >> ");
+		
+		int set =sc.nextInt();
+		int money = 0;
+		if(set >= 11) {
+			money = (int) (10000 * set * 0.9);
+		} else {
+			money = 10000 * set ;
+		}
+		
+		System.out.println("가격은" + money + "입니다.");
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	private static void money(Class<int[]> class1) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

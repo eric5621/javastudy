@@ -1,0 +1,29 @@
+package ifelse문;
+
+import java.util.Scanner;
+
+public class Ex03마트계산대프로그램 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("상품의 개수를 입력하세요 : ");
+		
+		int set = sc.nextInt();
+		int price = sc.nextInt();
+		int money = 10000;
+		if(set<=11) {
+			int money1 = (int) (10000 * set * 0.1) ;
+		} else {
+			int money1 = 10000 * set ;
+		}
+		System.out.println("가격은 "+ money + "원 입니다.");
+		
+		
+		
+		
+		
+	}
+
+}

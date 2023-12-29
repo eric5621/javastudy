@@ -1,0 +1,27 @@
+출력문
+System.out.println();
+syso ctrl space
+입력문
+입력도구를 꺼내 입력이 가능하다
+Scanner sc = new Scanner (system.in);
+입력 받기
+sc.nextint();
+변수 선언
+자료형 변수명 = 값 ;
+상수 선언 ---> final
+변수명 작성 규칙
+숫자로 시작할 수 없다
+대소문자를 구분하고 이름의 길이에 제한이없다
+키워드는 사용이 불가하다
+특수문자는 사용할 수 있으니 _와 $만 사용할 수 있다.
+자바 개발자에게 권장되는 규칙
+카멜식 기법
+변수 이름이 여러 단어로 이루어진 경우 이어지는 단어의 첫 글자를 대문자로 한다.
+변수 이름은 소문자로 시작한다.
+자바의 기본 자료형 8가지
+boolean:논리 (1byte) >> true,false, 
+char : 문자(2byte) >> 'a'
+byte(1), long(2), short(4), int(8) : 정수
+float(4), double(8) : 실수
+강제형변환(명시적 형 변환)
+byte num = (byte)128; (int(4)로 인식한다)
