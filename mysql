@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T07:29:26.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="R0K3FwpKZ1Qe-1p5zAtj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T07:30:33.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pfCShqBB8Y5wvj7dG4uN" version="22.1.15" type="github">
   <diagram name="페이지-1" id="_Edw9sZwbVhrPx02sC_0">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cN4BevJWan5rmrNewWPE-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cN4BevJWan5rmrNewWPE-1" target="cN4BevJWan5rmrNewWPE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cN4BevJWan5rmrNewWPE-1" target="cN4BevJWan5rmrNewWPE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cN4BevJWan5rmrNewWPE-1" target="cN4BevJWan5rmrNewWPE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="cN4BevJWan5rmrNewWPE-1" target="cN4BevJWan5rmrNewWPE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cN4BevJWan5rmrNewWPE-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
