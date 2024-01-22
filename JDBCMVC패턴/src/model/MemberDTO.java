@@ -3,8 +3,9 @@ package model;
 public class MemberDTO {
 
 	// Model 역할
-	// DTO ---> Data Transfer Object -- getter 메소드
-	// VO ---> Value Object --> getter, setter, 메소드
+	// DTO ---> Data Transfer Object -- getter, setter 메소드
+	// VO ---> Value Object --> getter 메소드
+	
 	
 	// 1. 필드(아이디, 비밀번호, 이름, 나이, 점수)
 	private String id;
@@ -21,6 +22,10 @@ public class MemberDTO {
 		this.score = score;
 	}
 	
+	public MemberDTO(int nScore, String id, String pw) {
+
+	}
+	
 	public String getId() {
 		return id;
 	}
@@ -35,6 +40,11 @@ public class MemberDTO {
 	}
 	public int getScore() {
 		return score;
+	}
+
+	public int Update(MemberDTO dto) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 	
 	

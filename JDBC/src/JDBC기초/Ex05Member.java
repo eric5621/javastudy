@@ -140,7 +140,8 @@ public class Ex05Member {
 					}
 
 				}
-			} else if (put == 3) {
+			} 
+			else if (put == 3) {
 				System.out.print("id 입력 : ");
 				String id = sc.next();
 				System.out.println("pw 입력 : ");
