@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T02:44:10.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="GchbehNer_k-d0m5GGsD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T05:06:08.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="G3NqrsFqsHtSZtAafXXE" version="22.1.16" type="github">
   <diagram name="페이지-1" id="H9foKaLW8r6Y9mCxa-UT">
-    <mxGraphModel>
+    <mxGraphModel dx="664" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-1" value="player&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="350" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-4" value="개냥고치" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-6" value="입양동의서 쓰기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-7" value="강아지, 고양이 정하기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A3hgWJiwzBDrq29mJL8N-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
